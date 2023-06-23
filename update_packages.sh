@@ -1,7 +1,7 @@
 # GitHub API credentials and repository information
 GITHUB_USERNAME="CodePrakhar"
 GITHUB_TOKEN=$token
-REPO_LINK="https://github.com/Sopra-Banking-Software-Interns/auto-dependency-update"
+REPO_LINK="https://github.com/CodePrakhar/auto-dependency-update"
 
 # Path to the text file
 TEXT_FILE=updates.txt
